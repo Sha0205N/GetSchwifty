@@ -1,0 +1,6 @@
+class createPage {
+    constructor() {
+
+    }
+    create()
+}
