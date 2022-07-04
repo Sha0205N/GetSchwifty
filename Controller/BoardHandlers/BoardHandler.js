@@ -2,7 +2,7 @@ class BoardHandler {
     constructor(board) {
         this.board = board;
     }
-    swapItems() {
+    swapItems(item1, item2) {
 
     }
     solve() {

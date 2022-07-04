@@ -4,3 +4,5 @@ class BoardItem {
         this.content = content;
     }
 }
+
+export { BoardItem };
